@@ -1,0 +1,4 @@
+<launch>
+<node pkg="services_test" type="service_client.py" name="move_trg_srvc" output="screen">
+</node>
+</launch>
